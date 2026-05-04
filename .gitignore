@@ -1,0 +1,28 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
+CodeImplement/.venv/
+# Large/generated datasets
+*.mat
+*.csv
+*.xlsx
+*.fig
+
+# Simulink/MATLAB generated files
+slprj/
+*_slprj/
+*.slxc
+*.mex*
+*.asv
+*.autosave
+*.log
+
+# Python venv/cache
+CodeImplement/.venv/
+.venv/
+venv/
+__pycache__/
+*.pyc
